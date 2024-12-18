@@ -1,6 +1,6 @@
 # SSL certificate for development
 
-<pre><code>mkcert -key-file KEY_FILE_NAME.key -cert-file CERTIFICATE_FILE_NAME.pem  WEBSITE_BASE_URL</pre></code>
+<pre><code>mkcert -key-file KEY_FILE_NAME.pem -cert-file CERTIFICATE_FILE_NAME.pem  WEBSITE_BASE_URL</pre></code>
 
 e.g:
 
